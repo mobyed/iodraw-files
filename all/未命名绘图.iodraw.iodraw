@@ -26,7 +26,7 @@
           <mxGeometry x="55" y="180" width="29" height="39" as="geometry" />
         </mxCell>
         <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;m $$\in$$ $$R^{n}$$&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="17" y="118" width="261" height="39" as="geometry" />
+          <mxGeometry x="348" y="167" width="37" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
