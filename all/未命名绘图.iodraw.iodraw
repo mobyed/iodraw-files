@@ -46,9 +46,6 @@
         <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;$$\rceil$$&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;\in \mathbb{Z}_{q}^{n}&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px; text-align: left;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="89" width="120" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-14" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="211" y="384" width="10" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\Delta$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="336" width="51" height="52" as="geometry" />
         </mxCell>
