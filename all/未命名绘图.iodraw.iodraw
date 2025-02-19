@@ -43,7 +43,7 @@
         <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-10" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{m}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="78" width="29" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ Z^{n}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ Z^{n}_{q}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="89" width="176" height="57" as="geometry" />
         </mxCell>
         <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\Delta$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
