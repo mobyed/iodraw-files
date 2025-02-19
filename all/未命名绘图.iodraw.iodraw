@@ -42,7 +42,7 @@
         <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-10" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;m&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="98" width="29" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;$$&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;\lfloor$$$$\Delta$$ \cdot \mathbf{m}\rceil \in \mathbb{Z}_{q}^{n}&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px; text-align: left;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6AOhmQ1_Xgwp4sUi5r_C-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;$$&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; font-size: 20px;&quot;&gt;\lfloor$$\Delta$$ \cdot \mathbf{m}\rceil \in \mathbb{Z}_{q}^{n}&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 20px; text-align: left;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="78" width="244" height="82" as="geometry" />
         </mxCell>
       </root>
