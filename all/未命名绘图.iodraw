@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ key^{FHE}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="795" width="88" height="41" as="geometry" />
+          <mxGeometry x="9.5" y="735" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -236,6 +236,9 @@
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$ Tag^{FHE}_{2}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="631" y="939" width="91" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="P6S2occ72f08Qu15392e-50" value="&lt;span style=&quot;text-align: left;&quot;&gt;$$ Enc^{FHE}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="398" y="652" width="90" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
