@@ -154,7 +154,7 @@
             <mxPoint x="358" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P6S2occ72f08Qu15392e-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P6S2occ72f08Qu15392e-21" value="GHash" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="101" y="722" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
