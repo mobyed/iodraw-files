@@ -131,10 +131,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{k}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113.5" y="567" width="32" height="41" as="geometry" />
+          <mxGeometry x="113.5" y="567" width="29.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-10" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ Enc^{FHE}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="581" width="91" height="56" as="geometry" />
+          <mxGeometry x="193" y="559.5" width="91" height="56" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{C}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="216.5" y="644.5" width="32" height="39" as="geometry" />
