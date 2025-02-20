@@ -214,7 +214,7 @@
           <mxGeometry x="642" y="752" width="73" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-44" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$ Tag^{FHE}_{1}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405.9999755859375" y="819.499951171875" width="261" height="46" as="geometry" />
+          <mxGeometry x="406" y="819.5" width="91" height="74.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
