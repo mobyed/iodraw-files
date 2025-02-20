@@ -216,8 +216,8 @@
         <mxCell id="P6S2occ72f08Qu15392e-44" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$ Tag^{FHE}_{1}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="862" width="91" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="P6S2occ72f08Qu15392e-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$ Tag^{FHE}_{1}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="872" width="91" height="54" as="geometry" />
+        <mxCell id="P6S2occ72f08Qu15392e-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$ Tag^{FHE}_{2}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="631" y="939" width="91" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
