@@ -136,11 +136,6 @@
         <mxCell id="P6S2occ72f08Qu15392e-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{k}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114.75" y="567" width="29.5" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="P6S2occ72f08Qu15392e-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P6S2occ72f08Qu15392e-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392.4000244140625" y="588" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-10" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ Enc^{FHE}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="193" y="559.5" width="91" height="56" as="geometry" />
         </mxCell>
@@ -178,6 +173,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="521" y="786.5" as="sourcePoint" />
             <mxPoint x="521" y="571.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6S2occ72f08Qu15392e-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="587" as="sourcePoint" />
+            <mxPoint x="415" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
