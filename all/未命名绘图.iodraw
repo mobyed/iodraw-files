@@ -126,7 +126,7 @@
           <mxGeometry x="187.5" y="505" width="32" height="41" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-10" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ Enc^{FV}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285.5" y="559" width="74.5" height="62" as="geometry" />
+          <mxGeometry x="283" y="567" width="76.75" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
