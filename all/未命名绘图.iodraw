@@ -143,7 +143,7 @@
           <mxGeometry x="216.5" y="644.5" width="32" height="39" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-16" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{Tag}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="706.5" width="32" height="39" as="geometry" />
+          <mxGeometry x="207" y="706.5" width="32" height="39" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-19" value="RtF(E)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="388" y="536" width="155" height="286" as="geometry" />
