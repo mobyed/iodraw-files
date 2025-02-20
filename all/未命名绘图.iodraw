@@ -251,7 +251,7 @@
         <mxCell id="P6S2occ72f08Qu15392e-52" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{m&#39;}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="872" width="29" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="P6S2occ72f08Qu15392e-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P6S2occ72f08Qu15392e-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="117" y="-485" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
