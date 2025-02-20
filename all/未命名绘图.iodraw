@@ -272,6 +272,9 @@
         <mxCell id="P6S2occ72f08Qu15392e-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;MC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162.5" y="-351" width="70" height="246" as="geometry" />
         </mxCell>
+        <mxCell id="P6S2occ72f08Qu15392e-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P6S2occ72f08Qu15392e-61" target="P6S2occ72f08Qu15392e-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-61" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;MR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260.5" y="-351" width="70" height="246" as="geometry" />
         </mxCell>
@@ -287,6 +290,9 @@
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-67" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Feistel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="-351" width="70" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="P6S2occ72f08Qu15392e-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="-418" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
