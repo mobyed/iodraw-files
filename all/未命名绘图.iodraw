@@ -243,8 +243,8 @@
         <mxCell id="P6S2occ72f08Qu15392e-50" value="&lt;span style=&quot;text-align: left;&quot;&gt;$$ Dec^{FHE}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="180" y="822" width="90" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="P6S2occ72f08Qu15392e-52" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{m}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="649.5" width="29" height="39" as="geometry" />
+        <mxCell id="P6S2occ72f08Qu15392e-52" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{m&#39;}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85.75" y="877" width="29" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
