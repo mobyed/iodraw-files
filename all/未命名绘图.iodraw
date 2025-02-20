@@ -122,11 +122,17 @@
         <mxCell id="P6S2occ72f08Qu15392e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P6S2occ72f08Qu15392e-8" target="P6S2occ72f08Qu15392e-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P6S2occ72f08Qu15392e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6S2occ72f08Qu15392e-8" target="P6S2occ72f08Qu15392e-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;k&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="505" width="32" height="41" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-10" value="&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ Enc^{FHE}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="497.5" width="91" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="P6S2occ72f08Qu15392e-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$\mathbf{m}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="566" width="29" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
