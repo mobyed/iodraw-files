@@ -181,7 +181,7 @@
             <mxPoint x="415" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P6S2occ72f08Qu15392e-32" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$ k^{FHE}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P6S2occ72f08Qu15392e-32" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;$$&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;\mathbf{k}&lt;/span&gt;&lt;span style=&quot;font-size: 20px; text-align: left;&quot;&gt;^{FHE}$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="546" width="29.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="P6S2occ72f08Qu15392e-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$ C^{FHE}_\mathbf{C}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
