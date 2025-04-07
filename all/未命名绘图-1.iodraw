@@ -438,8 +438,11 @@
         <mxCell id="WuQtUjQcprO8w99zuNaP-36" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="399.5" y="1480" width="22" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="WuQtUjQcprO8w99zuNaP-37" value="$$PT_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WuQtUjQcprO8w99zuNaP-37" value="$$PT_{n}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380.5" y="1549" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WuQtUjQcprO8w99zuNaP-38" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="1490" width="22" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
