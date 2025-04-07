@@ -339,8 +339,11 @@
         <mxCell id="WuQtUjQcprO8w99zuNaP-1" value="$$CT_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="1389" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WuQtUjQcprO8w99zuNaP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WuQtUjQcprO8w99zuNaP-2" target="WuQtUjQcprO8w99zuNaP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WuQtUjQcprO8w99zuNaP-2" value="$$H_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="208.5" y="1314" width="60" height="30" as="geometry" />
+          <mxGeometry x="205" y="1326" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WuQtUjQcprO8w99zuNaP-3" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="1393" width="22" height="22" as="geometry" />
