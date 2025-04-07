@@ -514,6 +514,9 @@
             <mxPoint x="391.5" y="1433" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WuQtUjQcprO8w99zuNaP-70" value="$$PT_{n}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.25" y="1559" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
