@@ -465,11 +465,6 @@
         <mxCell id="WuQtUjQcprO8w99zuNaP-45" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="1611" width="22" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="WuQtUjQcprO8w99zuNaP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WuQtUjQcprO8w99zuNaP-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-47.5" y="1329" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WuQtUjQcprO8w99zuNaP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WuQtUjQcprO8w99zuNaP-55" target="WuQtUjQcprO8w99zuNaP-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -485,8 +480,8 @@
         <mxCell id="WuQtUjQcprO8w99zuNaP-58" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;$$E_k$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32" y="1377" width="77" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="WuQtUjQcprO8w99zuNaP-59" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="1324" width="20" height="20" as="geometry" />
+        <mxCell id="WuQtUjQcprO8w99zuNaP-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WuQtUjQcprO8w99zuNaP-60" target="WuQtUjQcprO8w99zuNaP-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WuQtUjQcprO8w99zuNaP-60" value="$$H_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-106" y="1314" width="60" height="30" as="geometry" />
