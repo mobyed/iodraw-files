@@ -336,7 +336,7 @@
         <mxCell id="WuQtUjQcprO8w99zuNaP-1" value="$$CT_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="113" y="1389" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WuQtUjQcprO8w99zuNaP-2" value="CT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WuQtUjQcprO8w99zuNaP-2" value="$$H_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="1314" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
