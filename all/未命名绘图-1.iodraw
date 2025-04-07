@@ -502,6 +502,18 @@
         <mxCell id="WuQtUjQcprO8w99zuNaP-60" value="$$H_{0}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-106" y="1314" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WuQtUjQcprO8w99zuNaP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="1611" as="targetPoint" />
+            <mxPoint x="335" y="1433" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WuQtUjQcprO8w99zuNaP-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391.5" y="1611" as="targetPoint" />
+            <mxPoint x="391.5" y="1433" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
