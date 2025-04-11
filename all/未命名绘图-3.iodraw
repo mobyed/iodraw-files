@@ -565,6 +565,9 @@
         <mxCell id="7SBzP7APY0rL7NtKT5gF-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$f_{bin}(x) = (1 - cos(2πx)) / 2$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="328.25" y="2280" width="208.25" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7SBzP7APY0rL7NtKT5gF-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$Ct_{out}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="2360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
