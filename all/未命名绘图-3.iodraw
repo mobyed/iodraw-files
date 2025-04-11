@@ -544,8 +544,11 @@
         <mxCell id="7SBzP7APY0rL7NtKT5gF-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CoeffsToSlots&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="2069" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7SBzP7APY0rL7NtKT5gF-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CoeffsToSlots&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="2173" width="120" height="60" as="geometry" />
+        <mxCell id="7SBzP7APY0rL7NtKT5gF-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$Ct_{real}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="2166" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7SBzP7APY0rL7NtKT5gF-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CoeffsToSlots&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="2089" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
